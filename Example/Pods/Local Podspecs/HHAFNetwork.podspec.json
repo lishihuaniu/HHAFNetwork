@@ -1,0 +1,22 @@
+{
+  "name": "HHAFNetwork",
+  "version": "0.1.0",
+  "summary": "A short description of HHAFNetwork.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/lishihua298@163.com/HHAFNetwork",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "lishihua298@163.com": "lishihua@100tal.com"
+  },
+  "source": {
+    "git": "https://github.com/lishihua298@163.com/HHAFNetwork.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "HHAFNetwork/Classes/**/*"
+}

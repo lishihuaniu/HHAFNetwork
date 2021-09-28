@@ -21,16 +21,16 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/lishihua298@163.com/HHAFNetwork'
+  s.homepage         = 'https://github.com/lishihuaniu/HHAFNetwork'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'lishihua298@163.com' => 'lishihua@100tal.com' }
-  s.source           = { :git => 'https://github.com/lishihua298@163.com/HHAFNetwork.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/lishihuaniu/HHAFNetwork.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '9.0'
 
-  s.source_files = 'HHAFNetwork/Classes/**/*'
+#  s.source_files = 'HHAFNetwork/Classes/**/*'
   
   # s.resource_bundles = {
   #   'HHAFNetwork' => ['HHAFNetwork/Assets/*.png']
